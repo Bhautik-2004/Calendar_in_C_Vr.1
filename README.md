@@ -1,5 +1,4 @@
-The provided C program is a console-based calendar application designed to help users manage events, view calendars for specific months or years, and keep track of public holidays. Here's a short note on its use and features:
-
+The provided C program is a console-based calendar application designed to help users manage events, view calendars for specific months or years, and keep track of public holidays.
 1. **Purpose:**
    - The program serves as a simple tool for organizing events, providing a calendar view, and displaying public holidays.
 
