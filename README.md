@@ -11,27 +11,18 @@ The provided C program is a console-based calendar application designed to help 
    - Users can view the calendar for an entire year or for a specific month of a particular year.
    - The calendar is displayed in the console, showing the days of the week and highlighting the current day.
 
-4. **Public Holidays:**
-   - The program includes a feature to display public holidays for a given year. These holidays are predefined and do not depend on user input.
-
-5. **User Interface:**
+4. **User Interface:**
    - The program has a text-based interface with colored messages for better visibility and user interaction.
    - Menus guide users through different functionalities, providing a straightforward experience.
 
-6. **Input Validation:**
+5. **Input Validation:**
    - The program incorporates input validation to ensure that users enter valid numerical values within the specified ranges. This helps prevent errors and improves the user experience.
 
-7. **Exit Confirmation:**
+6. **Exit Confirmation:**
    - Before exiting, the program asks for confirmation from the user, enhancing the user interface and preventing accidental exits.
 
-8. **Use of Windows-Specific Libraries:**
+7. **Use of Windows-Specific Libraries:**
    - The program relies on Windows-specific headers (`windows.h` and `conio.h`), potentially limiting its portability to other operating systems.
 
-9. **Code Organization:**
+8. **Code Organization:**
    - The code is structured into functions, making it modular and enhancing readability. Each function handles a specific aspect of the program's functionality.
-
-10. **Improvements:**
-    - Despite its functionality, there are areas for improvement, such as removing the reliance on Windows-specific headers for better cross-platform compatibility.
-
-11. **Educational Value:**
-    - The program could serve as an educational tool for learning C programming, demonstrating the use of structures, arrays, functions, and basic input/output operations.
